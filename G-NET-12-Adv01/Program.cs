@@ -459,7 +459,7 @@ namespace G_NET_12_Adv01
             #endregion
 
             #region Q20:
-            // in MyChache 
+            // in MyChache  
             // We haven't had this point explained to us yet.
             #endregion
 
