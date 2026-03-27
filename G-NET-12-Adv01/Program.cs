@@ -312,7 +312,7 @@ namespace G_NET_12_Adv01
             #endregion
 
             #region Q13:
-
+             
             #region 1
             // : What does the 'default' keyword do in generics ?
             /* The default keyword returns the default value of a type 
