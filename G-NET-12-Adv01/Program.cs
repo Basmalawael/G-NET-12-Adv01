@@ -359,7 +359,7 @@ namespace G_NET_12_Adv01
             Console.WriteLine();
             Console.WriteLine(S.GetItem(3));
             Console.WriteLine();
-            Console.WriteLine(S.GetItem(5)); // default 
+            Console.WriteLine(S.GetItem(5)); // default  
             */
             #endregion
 
