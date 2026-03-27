@@ -426,7 +426,7 @@ namespace G_NET_12_Adv01
              * Logic: Dog = Animal 
              * (Someone who can handle all Animals can definitely handle a Dog).
              * 
-            */
+            */ 
             #endregion
 
             #region Q18:
