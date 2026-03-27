@@ -140,7 +140,7 @@ namespace G_NET_12_Adv01
 
             #region Q5:
 
-            /*
+            /* 
             int maxint = Utilities.FindMax(20, 30);
             Console.WriteLine($"Max Number: {maxint}");
 
