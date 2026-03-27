@@ -157,7 +157,7 @@ namespace G_NET_12_Adv01
             #endregion
 
             #region Q6:
-
+             
             #region 1
             // What is a generic interface? 
             /*
