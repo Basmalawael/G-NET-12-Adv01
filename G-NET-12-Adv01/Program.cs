@@ -247,7 +247,7 @@ namespace G_NET_12_Adv01
             #endregion
 
             #region Q10:
-
+             
             #region 1
             //Q10:  What is the interface constraint? 
 
