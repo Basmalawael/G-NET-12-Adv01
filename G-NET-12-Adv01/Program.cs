@@ -33,7 +33,7 @@ namespace G_NET_12_Adv01
             #endregion
 
             #region Q2:
-            /*
+            /* 
             Container<int> intcon = new Container<int>();
 
             intcon.Add(10);
