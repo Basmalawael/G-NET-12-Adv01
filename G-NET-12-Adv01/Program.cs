@@ -430,14 +430,14 @@ namespace G_NET_12_Adv01
             #endregion
 
             #region Q18:
-            /*  
+            /*   
              *   How do static members work in generic types?
              *  
              *  Static members in a generic class are not shared between 
              *  different closed types. The .NET Runtime creates a separate instance
              *  of the static member for each unique type argument 
              *  (e.g., int and string). Each type version maintains its own 
-             *  independent static state.
+             *  independent static state. 
              *  
              */
             #endregion
