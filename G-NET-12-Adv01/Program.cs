@@ -186,7 +186,7 @@ namespace G_NET_12_Adv01
             #endregion
             #endregion
 
-            #region Q7:
+            #region Q7: 
 
             #region 1 
             // What is the 'struct' constraint? 
